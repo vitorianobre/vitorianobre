@@ -6,10 +6,10 @@
 
 <div>
   <a href="https://github.com/vitorianobre">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=vitorianobre&show_icons=true&count_private=true&bg_color=90,D97398,A65398,5679A6,263F73&title_color=ffffff&text_color=ffffff&icon_color=222059&hide=prs,issues"/>
+    <img align="center" width="450em" src="https://github-readme-stats.vercel.app/api?username=vitorianobre&show_icons=true&count_private=true&bg_color=90,D97398,A65398,5679A6,263F73&title_color=ffffff&text_color=ffffff&icon_color=222059&hide=prs,issues"/>
   </a>
   <a href="https://github.com/vitorianobre">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorianobre&layout=compact&title_color=ffffff&bg_color=90,D97398,A65398"/>
+    <img align="center" width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorianobre&layout=compact&title_color=ffffff&bg_color=90,D97398,A65398"/>
   </a>
 </div>
 
@@ -28,9 +28,9 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/>
   </a>
   <a href="https://www.linkedin.com/in/vitoria-nobre" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>
   </a>
   <a href="https://www.instagram.com/vitoriia.nobre/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"/>
   </a>
 </div>
