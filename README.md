@@ -6,10 +6,10 @@
 
 <div>
   <a href="https://github.com/vitorianobre">
-    <img align="center" width="450em" src="https://github-readme-stats.vercel.app/api?username=vitorianobre&show_icons=true&count_private=true&bg_color=90,D97398,A65398,5679A6,263F73&title_color=ffffff&text_color=ffffff&icon_color=222059&hide=prs,issues"/>
+    <img align="center" width="400em" src="https://github-readme-stats.vercel.app/api?username=vitorianobre&show_icons=true&count_private=true&bg_color=90,D97398,A65398,5679A6,263F73&title_color=ffffff&text_color=ffffff&icon_color=222059&hide=prs,issues"/>
   </a>
   <a href="https://github.com/vitorianobre">
-    <img align="center" width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorianobre&layout=compact&title_color=ffffff&bg_color=90,D97398,A65398"/>
+    <img align="center" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorianobre&layout=compact&title_color=ffffff&bg_color=90,D97398,A65398"/>
   </a>
 </div>
 
